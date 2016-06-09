@@ -1,4 +1,4 @@
-package xietong;
+package jiyuwupindxietongguolv;
 
 public class Rank implements Comparable<Rank>{
 	private int movie;
